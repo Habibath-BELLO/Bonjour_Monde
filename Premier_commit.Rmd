@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-print("Hello word! Ceci est mon premier commit sur github!")
+print("Hello word! Ceci est mon premier commit sur github!!")
 print("Bientôt ce code sera sur github") 
 ```
 
